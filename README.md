@@ -1,9 +1,5 @@
-# Django-WebApp       <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Django-WebApp">
 
 
-This project was done by me as a assignment for an internship.
-
-<h2>Assignment Problem Statement:</h2>
 
 <h4>Part 1:</h4>
 <ol>
@@ -55,8 +51,6 @@ This project was done by me as a assignment for an internship.
     
    In your web browser enter the address : http://localhost:8000 or http://127.0.0.1:8000/
 
-# Working:
-[![Watch the video](https://img.youtube.com/vi/qIK-vfTig6c/0.jpg)](https://youtu.be/qIK-vfTig6c)
 
 # Screenshots : 
 <img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_14_36.png" height="400" width="800">
